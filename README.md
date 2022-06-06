@@ -2,7 +2,7 @@
  Uma interface diferente utilizando HTML e CSS em uma página de login
 
 
-## :Technologies ##
+## Technologies ##
 
 The following tools were used in this project:
 
